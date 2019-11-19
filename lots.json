@@ -1,0 +1,31 @@
+{
+	"auction": 
+	{
+		{
+		"ID" = 001,
+		"name" = "cat"
+		"price" = 100,
+		"description" = "What a beautiful cat!!!",
+		"pic" = "https://www.readersdigest.ca/wp-content/uploads/sites/14/2011/01/4-ways-cheer-up-depressed-cat.jpg",
+		"step" = 15
+		},
+
+		{
+		"ID" = 002,
+		"name" = "dog"
+		"price" = 90,
+		"description" = "What a beautiful dog!!!",
+		"pic" = "http://zooatlas.ru/img/articles/samoed-4.jpg",
+		"step" = 10
+		}, 
+
+		{
+		"ID" = 003,
+		"name" = "rabbit"
+		"price" = 90,
+		"description" = "What a beautiful rabbit!!!",
+		"pic" = "https://cdn3.bigcommerce.com/s-nadnq/product_images/uploaded_images/20.jpg",
+		"step" = 15
+		}
+	}
+}
